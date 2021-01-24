@@ -1,7 +1,7 @@
 {
   "name": "weather-app",
   "version": "1.0.0",
-  "description": "Loal Wether App",
+  "description": "Loal Weather App",
   "default": "index.js",
   "scripts": {
     "start": "parcel index.html",
